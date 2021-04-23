@@ -42,3 +42,7 @@ function YourSite() {
   );
 }
 ```
+
+### How does it look?
+
+![screenshot](https://cdn.discordapp.com/attachments/790307229336469544/835011898130300948/Screenshot_from_2021-04-22_22-38-14.png)
